@@ -18,7 +18,7 @@ $ vi ~/.zshrc
 + Create an alias who lauch the script in file: `~/.zshrc` 
 
 ```vim
-... ect
+...
 alias help="sh ~/.help.sh"
 ```
 
