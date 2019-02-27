@@ -3,8 +3,7 @@ Afficher les alias contenus dans le fichier `.zshrc` dans le home de votre sessi
 
 ## ALIAS OHMYZSH HELPER
 
-##### Story:
-- I have create a shell script for display the ohmyzsh alias. 
+I have create a shell script for display the ohmyzsh alias because Im lazy ;). 
 
 
 
