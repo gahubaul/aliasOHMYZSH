@@ -15,20 +15,21 @@ Afficher les alias contenus dans le fichier `.zshrc` dans le home de votre sessi
 $ vi ~/.zshrc
 ```
 
-Create a alias who lauch the script
++ Create an alias who lauch the script in file: `~/.zshrc` 
 
 ```vim
-.
-.
-.
+... ect
 alias help="sh ~/.help.sh"
 ```
 
-and copy the script `.help.sh` in your home directory.
++ Copy the script `.help.sh` in your home directory.
+
+
+### What do to Launch the script ?
 
 Restart the shell with this command:
 ```sh
 $ zsh
 ```
 
-Enjoy, now when you type `help` in your terminal, the script is launched
+### Enjoy, now when you type `help` in your terminal, the script is launched
