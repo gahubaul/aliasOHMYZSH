@@ -8,9 +8,9 @@ Afficher les alias contenus dans le fichier `.zshrc` dans le home de votre sessi
 
 
 
-### What do before install the script?
+### What do before launch the script?
 
-+ Before install, go in terminal and type:
++ Before launch, go in terminal and type:
 ```sh
 $ vi ~/.zshrc
 ```
@@ -18,7 +18,9 @@ $ vi ~/.zshrc
 Create a alias who lauch the script
 
 ```vim
-...
+.
+.
+.
 alias help="sh ~/.help.sh"
 ```
 
