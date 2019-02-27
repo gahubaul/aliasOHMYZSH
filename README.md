@@ -1,6 +1,3 @@
-# aliasOHMYZSH
-Afficher les alias contenus dans le fichier `.zshrc` dans le home de votre session
-
 ## ALIAS OHMYZSH HELPER
 
 I have create a shell script for display the ohmyzsh alias because Im lazy ;). 
