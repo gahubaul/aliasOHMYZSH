@@ -17,6 +17,7 @@ $ vi ~/.zshrc
 ...
 alias help="sh ~/.help.sh"
 ```
+*nb: Do not forget to return to line at the end of the `.zshrc` file
 
 + Copy the script `.help.sh` in your home directory.
 
